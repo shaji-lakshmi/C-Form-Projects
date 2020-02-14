@@ -1,0 +1,34 @@
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\bin\Debug\StringHandling.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\bin\Debug\StringHandling.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\bin\Debug\StringHandling.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\bin\Debug\StringHandling.exe.config
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\bin\Debug\StringHandling.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\bin\Debug\StringHandling.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.csprojResolveAssemblyReference.cache
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.Form1.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.csproj.GenerateResource.Cache
+L:\Murach's C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 09\StringHandling\StringHandling\bin\Debug\StringHandling.exe.config
+L:\Murach's C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.exe
+L:\Murach's C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 09\StringHandling\StringHandling\bin\Debug\StringHandling.exe.config
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 09\StringHandling\StringHandling\obj\Debug\StringHandling.pdb
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_stringHandling\StringHandling\bin\Debug\StringHandling.exe.config
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_stringHandling\StringHandling\bin\Debug\StringHandling.exe
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_stringHandling\StringHandling\bin\Debug\StringHandling.pdb
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_stringHandling\StringHandling\obj\Debug\StringHandling.csprojAssemblyReference.cache
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_stringHandling\StringHandling\obj\Debug\StringHandling.frmStringHandling.resources
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_stringHandling\StringHandling\obj\Debug\StringHandling.Properties.Resources.resources
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_stringHandling\StringHandling\obj\Debug\StringHandling.csproj.GenerateResource.cache
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_stringHandling\StringHandling\obj\Debug\StringHandling.csproj.CoreCompileInputs.cache
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_stringHandling\StringHandling\obj\Debug\StringHandling.exe
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_stringHandling\StringHandling\obj\Debug\StringHandling.pdb
