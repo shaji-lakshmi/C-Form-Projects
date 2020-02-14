@@ -1,0 +1,70 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\LunchOrder.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\LunchOrder.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\bin\Debug\LunchOrder.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\bin\Debug\LunchOrder.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\LunchOrder.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\LunchOrder.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\LunchOrder.csproj.GenerateResource.Cache
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\LunchOrder.exe
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\LunchOrder.pdb
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\bin\Debug\LunchOrder.exe
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\bin\Debug\LunchOrder.pdb
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\LunchOrder.Form1.resources
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\LunchOrder.Properties.Resources.resources
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-2 (Lunch Order)\LunchOrder\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe.config
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.csprojResolveAssemblyReference.cache
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.Form1.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.csproj.GenerateResource.Cache
+L:\Murach's C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe.config
+L:\Murach's C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.exe
+L:\Murach's C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 10\LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe.config
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 10\LunchOrder\LunchOrder\obj\Debug\LunchOrder.pdb
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\bin\Debug\LunchOrder.exe.config
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\bin\Debug\LunchOrder.exe
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\bin\Debug\LunchOrder.pdb
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.csprojAssemblyReference.cache
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.frmLunchOrder.resources
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.Properties.Resources.resources
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.csproj.GenerateResource.cache
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.csproj.CoreCompileInputs.cache
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.exe
+E:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.pdb
+F:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\bin\Debug\LunchOrder.exe.config
+F:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\bin\Debug\LunchOrder.exe
+F:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\bin\Debug\LunchOrder.pdb
+F:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.csprojAssemblyReference.cache
+F:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.frmLunchOrder.resources
+F:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.Properties.Resources.resources
+F:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.csproj.GenerateResource.cache
+F:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.csproj.CoreCompileInputs.cache
+F:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.exe
+F:\3309\vs_projects_labs\LShajiLab04\Shaji_lunchOrder\LunchOrder\obj\Debug\LunchOrder.pdb

@@ -1,0 +1,8 @@
+bin\Debug\LunchOrder.exe
+bin\Debug\LunchOrder.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LunchOrder.Form1.resources
+obj\Debug\LunchOrder.Properties.Resources.resources
+obj\Debug\LunchOrder.csproj.GenerateResource.Cache
+obj\Debug\LunchOrder.exe
+obj\Debug\LunchOrder.pdb
